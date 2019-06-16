@@ -10,6 +10,57 @@
   line-height:normal;
   text-transform:none;
 }
+._主要按钮 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
+  font-weight:500;
+  font-style:normal;
+  color:#EDEDEE;
+}
+._文本框 {
+  color:#737373;
+  text-align:left;
+}
+._控件名称 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
+  font-weight:500;
+  font-style:normal;
+  color:#737373;
+  text-align:left;
+}
+._块标题 {
+  font-family:'PingFangHK-Semibold', 'PingFang HK Semibold', 'PingFang HK';
+  font-weight:650;
+  font-style:normal;
+  color:#737373;
+  text-align:left;
+}
+._页标题 {
+  font-family:'PingFangHK-Regular', 'PingFang HK';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#5E6469;
+  text-align:left;
+}
+._一般文本 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#737373;
+  text-align:left;
+}
+._表格 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
+  font-weight:500;
+  font-style:normal;
+  color:#737373;
+}
+._次要按钮 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
+  font-weight:500;
+  font-style:normal;
+  color:#5E6469;
+}
 .box_1 {
 }
 .box_2 {
@@ -107,6 +158,7 @@
 ._流程形状 {
 }
 .table_cell {
+  color:#737373;
 }
 .menu_item {
 }
@@ -132,50 +184,5 @@
 }
 .marker {
   color:#FFFFFF;
-}
-._按钮 {
-  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
-  font-weight:500;
-  font-style:normal;
-  color:#EDEDEE;
-}
-._文本框 {
-  color:#737373;
-  text-align:left;
-}
-._控件名称 {
-  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
-  font-weight:500;
-  font-style:normal;
-  color:#737373;
-  text-align:left;
-}
-._块标题 {
-  font-family:'PingFangHK-Semibold', 'PingFang HK Semibold', 'PingFang HK';
-  font-weight:650;
-  font-style:normal;
-  color:#737373;
-  text-align:left;
-}
-._页标题 {
-  font-family:'PingFangHK-Regular', 'PingFang HK';
-  font-weight:400;
-  font-style:normal;
-  font-size:16px;
-  color:#5E6469;
-  text-align:left;
-}
-._一般文本 {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#737373;
-  text-align:left;
-}
-._表格 {
-  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
-  font-weight:500;
-  font-style:normal;
-  color:#737373;
 }
 textarea, select, input, button { outline: none; }
