@@ -4324,3 +4324,33 @@
   white-space:nowrap;
   text-transform:none;
 }
+#u2464_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:865px;
+  height:541px;
+}
+#u2464 {
+  border-width:0px;
+  position:absolute;
+  left:315px;
+  top:680px;
+  width:865px;
+  height:541px;
+  display:flex;
+}
+#u2464 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2464_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
